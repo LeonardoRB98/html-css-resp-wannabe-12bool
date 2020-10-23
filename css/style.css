@@ -5,6 +5,27 @@ body {
   text-align: center;
 }
 
+.margin-col {
+  margin-top: 80px;
+}
+
+.container {
+  margin-bottom: 90px;
+}
+ h2, h3 {
+  margin: 20px 0;
+}
+
 header img {
   height: 200px;
+}
+
+section {
+  background-color: #F9F9F9;
+}
+section img {
+  height: 200px;
+  border-radius: 50%;
+  padding: 30px;
+  background-color: #428BCA;
 }
